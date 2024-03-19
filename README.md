@@ -1,10 +1,10 @@
 # Acme Product Management System
  This project implements a Python-based product management system for Acme Corporation. It includes classes for modeling various products, generating random products, and generating inventory reports. The project emphasizes object-oriented programming, code style adherence, and unit testing.
 
-Introduction:
+## Introduction:
 Welcome to the Acme Product Management System! This project is designed to help organize and manage the vast inventory of products sold by Acme Corporation. With this system, you can model different types of products, generate random products for inventory, and generate reports summarizing the inventory.
 
-Requirements:
+## Requirements:
 To run this project, you need Python installed on your system. Additionally, ensure that you have the following modules available:
 
 pytest
