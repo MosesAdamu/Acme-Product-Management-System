@@ -1,8 +1,6 @@
 # Acme Product Management System
  This project implements a Python-based product management system for Acme Corporation. It includes classes for modeling various products, generating random products, and generating inventory reports. The project emphasizes object-oriented programming, code style adherence, and unit testing.
 
-Certainly! Here's the README content formatted properly:
-
 ---
 
 # Acme Product Management System
@@ -48,5 +46,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 [Your Name] - [Your Email]
 
 ---
-
-Feel free to customize the README further based on your preferences or additional information you want to include!
